@@ -1,6 +1,6 @@
 # ConsoleTable
 
-> ```ConsoleTableOptions.Pad```           := Is the Length of each cell.
+> ```ConsoleTableOptions.Pad```           := Is the Length of each cell.  
 > ```ConsoleTableOptions.DefaultIfNull``` := If the cell is null, set the default value
 
 ## Example:
